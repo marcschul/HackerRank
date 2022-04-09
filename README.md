@@ -1,2 +1,2 @@
 # HackerRank
-A repository holding related HackerRank problems, solutions and information for Marc Schulmeister.
+A repository holding related HackerRank information for Marc Schulmeister.
